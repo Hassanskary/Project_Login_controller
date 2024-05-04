@@ -1,0 +1,453 @@
+{
+  "Files": [
+    {
+      "Id": "F:\\VS\\JopPortal\\JopPortal\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\JopPortal.bundle.scp.css",
+      "PackagePath": "staticwebassets\\JopPortal.bundle.scp.css"
+    },
+    {
+      "Id": "F:\\VS\\JopPortal\\JopPortal\\wwwroot\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "F:\\VS\\JopPortal\\JopPortal\\wwwroot\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "F:\\VS\\JopPortal\\JopPortal\\wwwroot\\css\\home.css",
+      "PackagePath": "staticwebassets\\css\\home.css"
+    },
+    {
+      "Id": "F:\\VS\\JopPortal\\JopPortal\\wwwroot\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\css\\responsive.css"
+    },
+    {
+      "Id": "F:\\VS\\JopPortal\\JopPortal\\wwwroot\\css\\signin-company.css",
+      "PackagePath": "staticwebassets\\css\\signin-company.css"
+    },
+    {
+      "Id": "F:\\VS\\JopPortal\\JopPortal\\wwwroot\\css\\signin.css",
+      "PackagePath": "staticwebassets\\css\\signin.css"
+    },
+    {
+      "Id": "F:\\VS\\JopPortal\\JopPortal\\wwwroot\\css\\signup-company.css",
+      "PackagePath": "staticwebassets\\css\\signup-company.css"
+    },
+    {
+      "Id": "F:\\VS\\JopPortal\\JopPortal\\wwwroot\\css\\signup-user.css",
+      "PackagePath": "staticwebassets\\css\\signup-user.css"
+    },
+    {
+      "Id": "F:\\VS\\JopPortal\\JopPortal\\wwwroot\\css\\signup.css",
+      "PackagePath": "staticwebassets\\css\\signup.css"
+    },
+    {
+      "Id": "F:\\VS\\JopPortal\\JopPortal\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "F:\\VS\\JopPortal\\JopPortal\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "F:\\VS\\JopPortal\\JopPortal\\wwwroot\\css\\style.css.map",
+      "PackagePath": "staticwebassets\\css\\style.css.map"
+    },
+    {
+      "Id": "F:\\VS\\JopPortal\\JopPortal\\wwwroot\\css\\style.scss",
+      "PackagePath": "staticwebassets\\css\\style.scss"
+    },
+    {
+      "Id": "F:\\VS\\JopPortal\\JopPortal\\wwwroot\\css\\util.css",
+      "PackagePath": "staticwebassets\\css\\util.css"
+    },
+    {
+      "Id": "F:\\VS\\JopPortal\\JopPortal\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "F:\\VS\\JopPortal\\JopPortal\\wwwroot\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "F:\\VS\\JopPortal\\JopPortal\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "F:\\VS\\JopPortal\\JopPortal\\wwwroot\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "F:\\VS\\JopPortal\\JopPortal\\wwwroot\\images\\about-img.jpg",
+      "PackagePath": "staticwebassets\\images\\about-img.jpg"
+    },
+    {
+      "Id": "F:\\VS\\JopPortal\\JopPortal\\wwwroot\\images\\c1.png",
+      "PackagePath": "staticwebassets\\images\\c1.png"
+    },
+    {
+      "Id": "F:\\VS\\JopPortal\\JopPortal\\wwwroot\\images\\c2.png",
+      "PackagePath": "staticwebassets\\images\\c2.png"
+    },
+    {
+      "Id": "F:\\VS\\JopPortal\\JopPortal\\wwwroot\\images\\c3.png",
+      "PackagePath": "staticwebassets\\images\\c3.png"
+    },
+    {
+      "Id": "F:\\VS\\JopPortal\\JopPortal\\wwwroot\\images\\c4.png",
+      "PackagePath": "staticwebassets\\images\\c4.png"
+    },
+    {
+      "Id": "F:\\VS\\JopPortal\\JopPortal\\wwwroot\\images\\c5.png",
+      "PackagePath": "staticwebassets\\images\\c5.png"
+    },
+    {
+      "Id": "F:\\VS\\JopPortal\\JopPortal\\wwwroot\\images\\c6.png",
+      "PackagePath": "staticwebassets\\images\\c6.png"
+    },
+    {
+      "Id": "F:\\VS\\JopPortal\\JopPortal\\wwwroot\\images\\company-login.jpg",
+      "PackagePath": "staticwebassets\\images\\company-login.jpg"
+    },
+    {
+      "Id": "F:\\VS\\JopPortal\\JopPortal\\wwwroot\\images\\e1.jpg",
+      "PackagePath": "staticwebassets\\images\\e1.jpg"
+    },
+    {
+      "Id": "F:\\VS\\JopPortal\\JopPortal\\wwwroot\\images\\e2.jpg",
+      "PackagePath": "staticwebassets\\images\\e2.jpg"
+    },
+    {
+      "Id": "F:\\VS\\JopPortal\\JopPortal\\wwwroot\\images\\e3.jpg",
+      "PackagePath": "staticwebassets\\images\\e3.jpg"
+    },
+    {
+      "Id": "F:\\VS\\JopPortal\\JopPortal\\wwwroot\\images\\ed31a30e-3c43-4f3a-bed5-781941fb3650.png",
+      "PackagePath": "staticwebassets\\images\\ed31a30e-3c43-4f3a-bed5-781941fb3650.png"
+    },
+    {
+      "Id": "F:\\VS\\JopPortal\\JopPortal\\wwwroot\\images\\home.jpg",
+      "PackagePath": "staticwebassets\\images\\home.jpg"
+    },
+    {
+      "Id": "F:\\VS\\JopPortal\\JopPortal\\wwwroot\\images\\j1.jpg",
+      "PackagePath": "staticwebassets\\images\\j1.jpg"
+    },
+    {
+      "Id": "F:\\VS\\JopPortal\\JopPortal\\wwwroot\\images\\j2.jpg",
+      "PackagePath": "staticwebassets\\images\\j2.jpg"
+    },
+    {
+      "Id": "F:\\VS\\JopPortal\\JopPortal\\wwwroot\\images\\j3.jpg",
+      "PackagePath": "staticwebassets\\images\\j3.jpg"
+    },
+    {
+      "Id": "F:\\VS\\JopPortal\\JopPortal\\wwwroot\\images\\j4.jpg",
+      "PackagePath": "staticwebassets\\images\\j4.jpg"
+    },
+    {
+      "Id": "F:\\VS\\JopPortal\\JopPortal\\wwwroot\\images\\j5.jpg",
+      "PackagePath": "staticwebassets\\images\\j5.jpg"
+    },
+    {
+      "Id": "F:\\VS\\JopPortal\\JopPortal\\wwwroot\\images\\job_logo1.png",
+      "PackagePath": "staticwebassets\\images\\job_logo1.png"
+    },
+    {
+      "Id": "F:\\VS\\JopPortal\\JopPortal\\wwwroot\\images\\job_logo2.png",
+      "PackagePath": "staticwebassets\\images\\job_logo2.png"
+    },
+    {
+      "Id": "F:\\VS\\JopPortal\\JopPortal\\wwwroot\\images\\job_logo3.png",
+      "PackagePath": "staticwebassets\\images\\job_logo3.png"
+    },
+    {
+      "Id": "F:\\VS\\JopPortal\\JopPortal\\wwwroot\\images\\job_logo4.png",
+      "PackagePath": "staticwebassets\\images\\job_logo4.png"
+    },
+    {
+      "Id": "F:\\VS\\JopPortal\\JopPortal\\wwwroot\\images\\job_logo5.png",
+      "PackagePath": "staticwebassets\\images\\job_logo5.png"
+    },
+    {
+      "Id": "F:\\VS\\JopPortal\\JopPortal\\wwwroot\\images\\job_logo6.png",
+      "PackagePath": "staticwebassets\\images\\job_logo6.png"
+    },
+    {
+      "Id": "F:\\VS\\JopPortal\\JopPortal\\wwwroot\\images\\sign-user.jpg",
+      "PackagePath": "staticwebassets\\images\\sign-user.jpg"
+    },
+    {
+      "Id": "F:\\VS\\JopPortal\\JopPortal\\wwwroot\\images\\signin-company.jpg",
+      "PackagePath": "staticwebassets\\images\\signin-company.jpg"
+    },
+    {
+      "Id": "F:\\VS\\JopPortal\\JopPortal\\wwwroot\\images\\slider-bg11.jpg",
+      "PackagePath": "staticwebassets\\images\\slider-bg11.jpg"
+    },
+    {
+      "Id": "F:\\VS\\JopPortal\\JopPortal\\wwwroot\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.js"
+    },
+    {
+      "Id": "F:\\VS\\JopPortal\\JopPortal\\wwwroot\\js\\custom.js",
+      "PackagePath": "staticwebassets\\js\\custom.js"
+    },
+    {
+      "Id": "F:\\VS\\JopPortal\\JopPortal\\wwwroot\\js\\jquery-3.4.1.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-3.4.1.min.js"
+    },
+    {
+      "Id": "F:\\VS\\JopPortal\\JopPortal\\wwwroot\\js\\login.js",
+      "PackagePath": "staticwebassets\\js\\login.js"
+    },
+    {
+      "Id": "F:\\VS\\JopPortal\\JopPortal\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "F:\\VS\\JopPortal\\JopPortal\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "F:\\VS\\JopPortal\\JopPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "F:\\VS\\JopPortal\\JopPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "F:\\VS\\JopPortal\\JopPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "F:\\VS\\JopPortal\\JopPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "F:\\VS\\JopPortal\\JopPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "F:\\VS\\JopPortal\\JopPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "F:\\VS\\JopPortal\\JopPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "F:\\VS\\JopPortal\\JopPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\VS\\JopPortal\\JopPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "F:\\VS\\JopPortal\\JopPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "F:\\VS\\JopPortal\\JopPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "F:\\VS\\JopPortal\\JopPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "F:\\VS\\JopPortal\\JopPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "F:\\VS\\JopPortal\\JopPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "F:\\VS\\JopPortal\\JopPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "F:\\VS\\JopPortal\\JopPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\VS\\JopPortal\\JopPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "F:\\VS\\JopPortal\\JopPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "F:\\VS\\JopPortal\\JopPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "F:\\VS\\JopPortal\\JopPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "F:\\VS\\JopPortal\\JopPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "F:\\VS\\JopPortal\\JopPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "F:\\VS\\JopPortal\\JopPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "F:\\VS\\JopPortal\\JopPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\VS\\JopPortal\\JopPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "F:\\VS\\JopPortal\\JopPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "F:\\VS\\JopPortal\\JopPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "F:\\VS\\JopPortal\\JopPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "F:\\VS\\JopPortal\\JopPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "F:\\VS\\JopPortal\\JopPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "F:\\VS\\JopPortal\\JopPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "F:\\VS\\JopPortal\\JopPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\VS\\JopPortal\\JopPortal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "F:\\VS\\JopPortal\\JopPortal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "F:\\VS\\JopPortal\\JopPortal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "F:\\VS\\JopPortal\\JopPortal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "F:\\VS\\JopPortal\\JopPortal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "F:\\VS\\JopPortal\\JopPortal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "F:\\VS\\JopPortal\\JopPortal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "F:\\VS\\JopPortal\\JopPortal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "F:\\VS\\JopPortal\\JopPortal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "F:\\VS\\JopPortal\\JopPortal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "F:\\VS\\JopPortal\\JopPortal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "F:\\VS\\JopPortal\\JopPortal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "F:\\VS\\JopPortal\\JopPortal\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "F:\\VS\\JopPortal\\JopPortal\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "F:\\VS\\JopPortal\\JopPortal\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "F:\\VS\\JopPortal\\JopPortal\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "F:\\VS\\JopPortal\\JopPortal\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "F:\\VS\\JopPortal\\JopPortal\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "F:\\VS\\JopPortal\\JopPortal\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "F:\\VS\\JopPortal\\JopPortal\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "F:\\VS\\JopPortal\\JopPortal\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "F:\\VS\\JopPortal\\JopPortal\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "F:\\VS\\JopPortal\\JopPortal\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "F:\\VS\\JopPortal\\JopPortal\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.JopPortal.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.JopPortal.props",
+      "PackagePath": "build\\JopPortal.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.JopPortal.props",
+      "PackagePath": "buildMultiTargeting\\JopPortal.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.JopPortal.props",
+      "PackagePath": "buildTransitive\\JopPortal.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
